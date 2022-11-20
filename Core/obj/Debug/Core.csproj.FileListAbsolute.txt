@@ -1,0 +1,12 @@
+C:\Users\Daniel Shin\Desktop\Ex1-Base\Core\bin\Debug\CoreAI.dll
+C:\Users\Daniel Shin\Desktop\Ex1-Base\Core\bin\Debug\CoreAI.pdb
+C:\Users\Daniel Shin\Desktop\Ex1-Base\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\Daniel Shin\Desktop\Ex1-Base\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Shin\Desktop\Ex1-Base\Core\obj\Debug\CoreAI.dll
+C:\Users\Daniel Shin\Desktop\Ex1-Base\Core\obj\Debug\CoreAI.pdb
+F:\School\AI Comp Games\Ex1-Base\Core\bin\Debug\CoreAI.dll
+F:\School\AI Comp Games\Ex1-Base\Core\bin\Debug\CoreAI.pdb
+F:\School\AI Comp Games\Ex1-Base\Core\obj\Debug\Core.csprojAssemblyReference.cache
+F:\School\AI Comp Games\Ex1-Base\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+F:\School\AI Comp Games\Ex1-Base\Core\obj\Debug\CoreAI.dll
+F:\School\AI Comp Games\Ex1-Base\Core\obj\Debug\CoreAI.pdb

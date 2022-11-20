@@ -1,0 +1,22 @@
+C:\Users\Daniel Shin\Desktop\Ex1-Base\StudentAI\bin\Debug\SudentAI.dll
+C:\Users\Daniel Shin\Desktop\Ex1-Base\StudentAI\bin\Debug\SudentAI.pdb
+C:\Users\Daniel Shin\Desktop\Ex1-Base\StudentAI\bin\Debug\CoreAI.dll
+C:\Users\Daniel Shin\Desktop\Ex1-Base\StudentAI\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Daniel Shin\Desktop\Ex1-Base\StudentAI\bin\Debug\CoreAI.pdb
+C:\Users\Daniel Shin\Desktop\Ex1-Base\StudentAI\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Daniel Shin\Desktop\Ex1-Base\StudentAI\obj\Debug\StudentAI.csprojAssemblyReference.cache
+C:\Users\Daniel Shin\Desktop\Ex1-Base\StudentAI\obj\Debug\StudentAI.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Shin\Desktop\Ex1-Base\StudentAI\obj\Debug\StudentAI.csproj.CopyComplete
+C:\Users\Daniel Shin\Desktop\Ex1-Base\StudentAI\obj\Debug\SudentAI.dll
+C:\Users\Daniel Shin\Desktop\Ex1-Base\StudentAI\obj\Debug\SudentAI.pdb
+F:\School\AI Comp Games\Ex1-Base\StudentAI\bin\Debug\SudentAI.dll
+F:\School\AI Comp Games\Ex1-Base\StudentAI\bin\Debug\SudentAI.pdb
+F:\School\AI Comp Games\Ex1-Base\StudentAI\bin\Debug\CoreAI.dll
+F:\School\AI Comp Games\Ex1-Base\StudentAI\bin\Debug\Microsoft.DirectX.dll
+F:\School\AI Comp Games\Ex1-Base\StudentAI\bin\Debug\CoreAI.pdb
+F:\School\AI Comp Games\Ex1-Base\StudentAI\bin\Debug\Microsoft.DirectX.xml
+F:\School\AI Comp Games\Ex1-Base\StudentAI\obj\Debug\StudentAI.csprojAssemblyReference.cache
+F:\School\AI Comp Games\Ex1-Base\StudentAI\obj\Debug\StudentAI.csproj.CoreCompileInputs.cache
+F:\School\AI Comp Games\Ex1-Base\StudentAI\obj\Debug\StudentAI.csproj.CopyComplete
+F:\School\AI Comp Games\Ex1-Base\StudentAI\obj\Debug\SudentAI.dll
+F:\School\AI Comp Games\Ex1-Base\StudentAI\obj\Debug\SudentAI.pdb
